@@ -3,9 +3,9 @@ import 'antd/dist/antd.css'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import Hello from './hello'
+import MySelect from './MySelect'
 
 ReactDOM.render(
-  <Hello/>,
+  <MySelect/>,
   document.body
 )
