@@ -1,7 +1,7 @@
 TypeScript React AntDesign Select Object Demo
 =================================
 
-AntD中的Select不支持传入一个object[]，所以只能通过value (number/string)反查，有点麻烦。
+AntD中的Select不支持直接传入一个object[]，但可以通过构造特殊的Option来做到
 
 ```
 npm install
